@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "116928845867",
+    "project_id": "sayhi-71e32",
+    "storage_bucket": "sayhi-71e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116928845867:android:9650125c7d1a93536b726e",
+        "android_client_info": {
+          "package_name": "com.sayhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116928845867-bl0gg2qalr7eqe854ht14emp81l7reab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyGYKSMezYMYsmxpEBbK3yLu2TIiKKLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116928845867-bl0gg2qalr7eqe854ht14emp81l7reab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116928845867-2u3b1l99lmmptd2p1kuujts5ll7v27od.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sayhi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
